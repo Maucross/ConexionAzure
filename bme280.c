@@ -8,6 +8,10 @@
 // SPI based interface to read temperature, pressure and humidity samples from
 // a BME280 module.
 //
+//Sensores que se van a usar para la prueba de envio de datos a la nube de azure:
+//FC-28 -- Sensor de humedad
+//Mq131 -- Sensor de luz
+
 ///////////////////////////////////////////////////////////////////////////////
 
 #include "./bme280.h"

@@ -6,7 +6,7 @@
 //
 // bme280.h:
 // SPI based interface to read temperature, pressure and humidity samples from
-// a BME280 module.
+// a BME280 module. 
 //
 ///////////////////////////////////////////////////////////////////////////////
 
