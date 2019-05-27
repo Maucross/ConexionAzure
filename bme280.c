@@ -15,7 +15,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 #include "./bme280.h"
-#include <wiringPi.h>
+#include <wiring.h>
 #include <wiringPiSPI.h>
 #include <stdint.h>
 #include <stdio.h>
